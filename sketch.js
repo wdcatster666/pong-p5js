@@ -30,9 +30,9 @@ let trilha;
 let colidiu = false;
 
 function preload() {
-  trilha = loadSound("Bonetrousle.mp3");
-  ponto = loadSound("Coin.mp3");
-  raquetada = loadSound("Metal pipe.mp3");
+  trilha = loadSound("Undertale OST_ 024 - Bonetrousle.mp3");
+  ponto = loadSound("Mario Coin Sound - Sound Effect (HD).mp3");
+  raquetada = loadSound("Metal pipe falling sound effect but its more violent.mp3");
 }
 
 function setup() {
